@@ -29,8 +29,8 @@ Apply data visualization techniques to identify the patterns of the data.
 
 ## CODE :
 
-### DEVELOPED BY : ABRIN NISHA A
-### REG NO : 212222230005
+### DEVELOPED BY : Raghul.M
+### REG NO : 212220220031
 
 ### Loading the dataset :
 ```
